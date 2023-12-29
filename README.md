@@ -42,7 +42,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 Public Institution “Environmental Projects Implementation Unit”, Environment Agency, United Nations Environment Programme. – Chişinău : S. n., 
 2022 (Bons Offices). – 690 p. : fig., tab. : https://unfccc.int/sites/default/files/resource/Moldova_NIR_1990-2020_EN_web.pdf
 - <b> National Communication (NC). NC 5 </b> : https://unfccc.int/documents/627100
-- Low Emissions Development Programme ???
+- Low Emissions Development Programme tbd
+- NAP tbd
+- NECAP tbd
 - Moldova 2022 <b> Energy Policy Review </b>, IEA: https://www.iea.org/reports/moldova-2022  
 
 ### EU accession
@@ -58,4 +60,7 @@ Public Institution “Environmental Projects Implementation Unit”, Environment
 - 2022: AD HOC Review Moldova, IMF: https://www.imf.org/en/Publications/CR/Issues/2022/05/13/Republic-of-Moldova-Ad-Hoc-Review-Under-the-Extended-Credit-Facility-Request-for-517858
 
 ### Data <a name="Data"></a>
+
+- NATIONAL BUREAU OF STATISTICS OF THE REPUBLIC OF MOLDOVA: https://statistica.gov.md/
+- 
 
