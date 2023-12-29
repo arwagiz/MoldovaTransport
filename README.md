@@ -1,4 +1,4 @@
-# MoldovaTransport
+# Transport in Molodva
 Plans, data and other documents on transport in Moldova
 
 <b> 
@@ -19,7 +19,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### National Vision, Strategy, Masterplan <a name="National-Vision-Strategy-Masterplan"></a>
 
-### Other national plans and documents <a name="Other-national-plans-and-documents"></a>
+### Other national and sectoral plans and documents <a name="Other-national-plans-and-documents"></a>
 
 ### Local Transport Plans <a name="Local-Transport-Plans"></a>
 
@@ -35,6 +35,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 Public Institution “Environmental Projects Implementation Unit”, Environment Agency, United Nations Environment Programme. – Chişinău : S. n., 
 2022 (Bons Offices). – 690 p. : fig., tab. : https://unfccc.int/sites/default/files/resource/Moldova_NIR_1990-2020_EN_web.pdf
 - <b> National Communication (NC). NC 5 </b> : https://unfccc.int/documents/627100
+
+### Studies and research papers
 
 ### Data <a name="Data"></a>
 
