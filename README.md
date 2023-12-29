@@ -20,7 +20,6 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="National-Vision-Strategy-Masterplan"></a>
 
 - Mobility Strategy 2030 (upcoming)
-- Pathways towards Decarbonisation of the Transport Sector in Moldova (upcoming)
 
 ### Other national and sectoral plans and documents <a name="Other-national-plans-and-documents"></a>
 
@@ -63,6 +62,11 @@ Public Institution “Environmental Projects Implementation Unit”, Environment
 - 2018: Moldova Trade Corridor Assessment, MISRA/USAID: https://pdf.usaid.gov/pdf_docs/PA00T8JD.pdf
 - 2019: Promoting Clean Urban Public Transportation and Green Investment in Moldova, OECD: https://www.oecd.org/environment/promoting-clean-urban-public-transportation-and-green-investment-in-moldova-31925aae-en.htm
 - 2022: AD HOC Review Moldova, IMF: https://www.imf.org/en/Publications/CR/Issues/2022/05/13/Republic-of-Moldova-Ad-Hoc-Review-Under-the-Extended-Credit-Facility-Request-for-517858
+
+### Ongoing projects
+
+- Pathways towards Decarbonisation of the Transport Sector in Moldova: https://changing-transport.org/project/pathways-towards-decarbonization-of-the-transport-sector-in-moldova/
+- MOVE IT Like. Lublin – a Chisinau public transport sustainable development initiative: https://www.chisinau.md/ro/upload/271759/attached_files/63454b2514a23.pdf
 
 ### Data <a name="Data"></a>
 
