@@ -27,6 +27,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Railways:
     - CFM Railway – Development Program 2018 - 2031: http://www.railway.md/content/ro/modernizare.pdf
     - Integration of the Ukrainian and Moldavian Railway System into the EU transport system, EIB, DG MOVE: https://transport.ec.europa.eu/system/files/2023-07/Integration_of_the_UAMD_railway_system_into_the_EU_transport_system.pdf
+- Roads:
+- Inland waterways, ports:
+- Aviation:
 
 ### Local Transport Plans <a name="Local-Transport-Plans"></a>
 
@@ -47,13 +50,15 @@ Public Institution “Environmental Projects Implementation Unit”, Environment
 - NECAP tbd
 - Moldova 2022 <b> Energy Policy Review </b>, IEA: https://www.iea.org/reports/moldova-2022  
 
-### EU accession
+### EU accession, EBRD, EIB
 
 - Communication on EU Enlargement policy - Republic of Moldova 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 :  https://neighbourhood-enlargement.ec.europa.eu/system/files/2023-11/SWD_2023_698%20Moldova%20report.pdf
+- EBRD Country Strategy Moldova 2023 - 2028: https://www.ebrd.com/news/2023/ebrd-approves-new-moldova-country-strategy.html
 
 ### Studies and research papers
 
 - 2007: Moldova- Present situation analysis of the transport sector, World Bank: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/540881468054253412/moldova-present-situation-analysis-of-the-transport-sector
+- 2012: Analysis of public transport in Chisinau, Technical University of Moldova: https://ibn.idsi.md/sites/default/files/imag_file/383-387_1.pdf
 - 2014: How much Time Do Moldovans Spend Travelling, UNDP: https://www.undp.org/moldova/publications/analytical-brief-10-how-much-time-do-moldovans-spend-travelling
 - 2018: Moldova Trade Corridor Assessment, MISRA/USAID: https://pdf.usaid.gov/pdf_docs/PA00T8JD.pdf
 - 2019: Promoting Clean Urban Public Transportation and Green Investment in Moldova, OECD: https://www.oecd.org/environment/promoting-clean-urban-public-transportation-and-green-investment-in-moldova-31925aae-en.htm
@@ -62,5 +67,6 @@ Public Institution “Environmental Projects Implementation Unit”, Environment
 ### Data <a name="Data"></a>
 
 - NATIONAL BUREAU OF STATISTICS OF THE REPUBLIC OF MOLDOVA: https://statistica.gov.md/
+- Pocket book: Moldova in figures, edition 2023: https://statistica.gov.md/en/the-statistical-pocket-book-moldova-in-figures-edition-2023-posted-on-12_60465.html
 - 
 
