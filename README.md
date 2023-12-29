@@ -24,7 +24,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Other national and sectoral plans and documents <a name="Other-national-plans-and-documents"></a>
 
 - Railways:
-    - CFM Railway – Development Program 2018 - 2031: 
+    - CFM Railway – Development Program 2018 - 2031: http://www.railway.md/content/ro/modernizare.pdf
+    - Integration of the Ukrainian and Moldavian Railway System into the EU transport system, EIB, DG MOVE: https://transport.ec.europa.eu/system/files/2023-07/Integration_of_the_UAMD_railway_system_into_the_EU_transport_system.pdf
 
 ### Local Transport Plans <a name="Local-Transport-Plans"></a>
 
