@@ -41,13 +41,17 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - <b> Sustainable Energy and Climate Action Plan (SECAP) Balti municipality 2016-2030 </b> https://mycovenant.eumayors.eu/docs/seap/19514_1459614153.pdf
 
 ### Climate, energy policy and information <a name="Climate-policy-and-information"></a>
-- <b> Updated Nationally Determined Contribution of the Republic of Moldova </b> 2020: https://unfccc.int/sites/default/files/NDC/2022-06/MD_Updated_NDC_final_version_EN.pdf
-- <b> National Inventory Report </b> : Greenhouse Gas Sources and Sinks in the Republic of Moldova, 1990-2020 : Submission to the United Nations Framework Convention on Climate Change, UNEP : https://unfccc.int/sites/default/files/resource/Moldova_NIR_1990-2020_EN_web.pdf
-- <b> National Communication (NC). NC 5 </b> : https://unfccc.int/documents/627100
-- Low Emissions Development Programme tbd
-- NAP tbd
+- Mitigation:
+    - <b> Updated Nationally Determined Contribution of the Republic of Moldova </b> 2020: https://unfccc.int/sites/default/files/NDC/2022-06/MD_Updated_NDC_final_version_EN.pdf
+    - <b> National Inventory Report </b> : Greenhouse Gas Sources and Sinks in the Republic of Moldova, 1990-2020 : Submission to the United Nations Framework Convention on Climate Change, UNEP : https://unfccc.int/sites/default/files/resource/Moldova_NIR_1990-2020_EN_web.pdf
+    - <b> National Communication (NC). NC 5 </b> : https://unfccc.int/documents/627100
+    - Low Emissions Development Programme tbd
+- Adaptation
+    - NAP tbd
+
 - NECAP tbd
-- Moldova 2022 <b> Energy Policy Review </b>, IEA: https://www.iea.org/reports/moldova-2022  
+- Energy policy
+-     Moldova 2022 <b> Energy Policy Review </b>, IEA: https://www.iea.org/reports/moldova-2022  
 
 ### EU accession, EBRD, EIB
 
