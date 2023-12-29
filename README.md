@@ -51,7 +51,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - NECAP tbd
 - Energy policy
--     Moldova 2022 <b> Energy Policy Review </b>, IEA: https://www.iea.org/reports/moldova-2022  
+    - Moldova 2022 <b> Energy Policy Review </b>, IEA: https://www.iea.org/reports/moldova-2022  
 
 ### EU accession, EBRD, EIB
 
@@ -70,7 +70,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### International cooperation projects
 
 - Pathways towards Decarbonisation of the Transport Sector in Moldova: https://changing-transport.org/project/pathways-towards-decarbonization-of-the-transport-sector-in-moldova/
-- MISRA
+- Moldova Institutional and Structural Reforms Activity (MISRA): https://www.usaid.gov/moldova/economic-growth
 - MOVE IT Like. Lublin – a Chisinau public transport sustainable development initiative: https://www.chisinau.md/ro/upload/271759/attached_files/63454b2514a23.pdf
 
 ### Data <a name="Data"></a>
