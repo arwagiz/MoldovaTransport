@@ -53,6 +53,7 @@ Public Institution “Environmental Projects Implementation Unit”, Environment
 
 - 2007: Moldova- Present situation analysis of the transport sector, World Bank: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/540881468054253412/moldova-present-situation-analysis-of-the-transport-sector
 - 2014: How much Time Do Moldovans Spend Travelling, UNDP: https://www.undp.org/moldova/publications/analytical-brief-10-how-much-time-do-moldovans-spend-travelling
+- 2018: Moldova Trade Corridor Assessment, MISRA/USAID: https://pdf.usaid.gov/pdf_docs/PA00T8JD.pdf
 - 2019: Promoting Clean Urban Public Transportation and Green Investment in Moldova, OECD: https://www.oecd.org/environment/promoting-clean-urban-public-transportation-and-green-investment-in-moldova-31925aae-en.htm
 - 2022: AD HOC Review Moldova, IMF: https://www.imf.org/en/Publications/CR/Issues/2022/05/13/Republic-of-Moldova-Ad-Hoc-Review-Under-the-Extended-Credit-Facility-Request-for-517858
 
