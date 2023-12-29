@@ -19,8 +19,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Studies and research papers](#Studies-and-research-papers)
 - [International cooperation projects and strategies](#International-cooperation-projects)
 - [Data](#data)
-- [Transport Planning](#transport-planning)
 
+  
 ### National Vision, Strategy, Masterplan <a name="National-Vision-Strategy-Masterplan"></a>
 
 - Transport
