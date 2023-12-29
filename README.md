@@ -19,7 +19,12 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### National Vision, Strategy, Masterplan <a name="National-Vision-Strategy-Masterplan"></a>
 
+- Mobility Strategy 2030 (upcoming)
+
 ### Other national and sectoral plans and documents <a name="Other-national-plans-and-documents"></a>
+
+- Railways:
+    - CFM Railway – Development Program 2018 - 2031: 
 
 ### Local Transport Plans <a name="Local-Transport-Plans"></a>
 
@@ -36,7 +41,13 @@ Public Institution “Environmental Projects Implementation Unit”, Environment
 2022 (Bons Offices). – 690 p. : fig., tab. : https://unfccc.int/sites/default/files/resource/Moldova_NIR_1990-2020_EN_web.pdf
 - <b> National Communication (NC). NC 5 </b> : https://unfccc.int/documents/627100
 
+### EU accession
+
+- Communication on EU Enlargement policy - Republic of Moldova 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 :  https://neighbourhood-enlargement.ec.europa.eu/system/files/2023-11/SWD_2023_698%20Moldova%20report.pdf
+
 ### Studies and research papers
+
+- 2014: How much Time Do Moldovans Spend Travelling, UNDP: https://www.undp.org/moldova/publications/analytical-brief-10-how-much-time-do-moldovans-spend-travelling
 
 ### Data <a name="Data"></a>
 
