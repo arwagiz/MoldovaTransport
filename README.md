@@ -29,6 +29,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     - CFM Railway – Development Program 2018 - 2031: http://www.railway.md/content/ro/modernizare.pdf
     - Integration of the Ukrainian and Moldavian Railway System into the EU transport system, EIB, DG MOVE: https://transport.ec.europa.eu/system/files/2023-07/Integration_of_the_UAMD_railway_system_into_the_EU_transport_system.pdf
 - Roads:
+    - Programs on the distribution of road fund funds for 2023: https://www.asd.md/programe/
 - Inland waterways, ports:
 - Aviation:
 
@@ -65,6 +66,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - 2014: How much Time Do Moldovans Spend Travelling, UNDP: https://www.undp.org/moldova/publications/analytical-brief-10-how-much-time-do-moldovans-spend-travelling
 - 2018: Moldova Trade Corridor Assessment, MISRA/USAID: https://pdf.usaid.gov/pdf_docs/PA00T8JD.pdf
 - 2019: Promoting Clean Urban Public Transportation and Green Investment in Moldova, OECD: https://www.oecd.org/environment/promoting-clean-urban-public-transportation-and-green-investment-in-moldova-31925aae-en.htm
+- 2021: Sustainable Infrastructure for Low-carbon Development in the EU Eastern Partnership: Moldova’s sustainable infrastructure investments, OECD: https://www.oecd-ilibrary.org/sites/986fb125-en/index.html?itemId=/content/component/986fb125-en#chapter-d1e16533 
 - 2022: AD HOC Review Moldova, IMF: https://www.imf.org/en/Publications/CR/Issues/2022/05/13/Republic-of-Moldova-Ad-Hoc-Review-Under-the-Extended-Credit-Facility-Request-for-517858
 
 ### International cooperation projects
@@ -72,6 +74,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Pathways towards Decarbonisation of the Transport Sector in Moldova: https://changing-transport.org/project/pathways-towards-decarbonization-of-the-transport-sector-in-moldova/
 - Moldova Institutional and Structural Reforms Activity (MISRA): https://www.usaid.gov/moldova/economic-growth
 - MOVE IT Like. Lublin – a Chisinau public transport sustainable development initiative: https://www.chisinau.md/ro/upload/271759/attached_files/63454b2514a23.pdf
+- Strong Businesses and Communities for Moldova: https://www.giz.de/de/downloads/giz2022-en-strong-businesses-and-communities.pdf  
 
 ### Data <a name="Data"></a>
 
