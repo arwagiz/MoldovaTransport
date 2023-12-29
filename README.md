@@ -18,7 +18,6 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [EU accession](#EU-accession)
 - [Studies and research papers](#Studies-and-research-papers)
 - [International cooperation projects and strategies](#International-cooperation-projects)
-- 
 - [Data](#data)
 
 ### National Vision, Strategy, Masterplan <a name="National-Vision-Strategy-Masterplan"></a>
@@ -86,3 +85,14 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Pocket book: Moldova in figures, edition 2023: https://statistica.gov.md/en/the-statistical-pocket-book-moldova-in-figures-edition-2023-posted-on-12_60465.html
 - 
 
+Disclaimer: Findings, interpretations and conclusions expressed in this chart are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
+
+
+Contributors:
+- Tuan Do: tuan.do@giz.de
+- Lena Plikat lena.plikat@giz.de
+- Sergiu Gradinaru
+
+Compiled by / Contact:
+- Armin Wagner: armin.wagner@giz.de
+- (as of Dcember 2023)
