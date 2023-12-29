@@ -19,7 +19,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### National Vision, Strategy, Masterplan <a name="National-Vision-Strategy-Masterplan"></a>
 
-- Mobility Strategy 2030 (upcoming)
+- Transport
+    - Mobility Strategy 2030 (upcoming)
+- General
+    - 
 
 ### Other national and sectoral plans and documents <a name="Other-national-plans-and-documents"></a>
 
