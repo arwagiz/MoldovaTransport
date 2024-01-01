@@ -25,7 +25,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Transport
     - Mobility Strategy 2030 (upcoming)
-
+- General
+  - National Development Strategy: https://gov.md/sites/default/files/document/attachments/intr40_12_0.pdf
 
 ### Other national and sectoral plans and documents <a name="Other-national-plans-and-documents"></a>
 
