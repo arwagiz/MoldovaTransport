@@ -24,6 +24,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="National-Vision-Strategy-Masterplan"></a>
 
 - Transport
+    - Transport and Logistics Strategy 2013 - 2022: http://lex.justice.md/viewdoc.php?action=view&view=doc&id=350111&lang=1
     - Mobility Strategy 2030 (upcoming)
 - General
   - National Development Strategy: https://gov.md/sites/default/files/document/attachments/intr40_12_0.pdf
