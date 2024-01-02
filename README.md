@@ -53,7 +53,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - NECAP tbd
 - Energy policy
     - Moldova 2022 <b> Energy Policy Review </b>, IEA: https://www.iea.org/reports/moldova-2022  
-- Test
+
 
 ### European Union <a name="european-union"></a> 
 
