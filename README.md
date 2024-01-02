@@ -14,7 +14,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
 - [Climate and energy policies](#climate-energy-policies) 
-- [EU accession](#EU-accession) 
+- [European Union](#European-Union)
 - [Trade Facilitation](#trade-facilitation)  
 - [Local Transport Plans](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
@@ -54,7 +54,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Energy policy
     - Moldova 2022 <b> Energy Policy Review </b>, IEA: https://www.iea.org/reports/moldova-2022  
 
-### EU accession <a name="EU-accession"></a> 
+### European Union <a name="European-Union"></a> 
 
 - Communication on EU Enlargement policy - Republic of Moldova 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 :  https://neighbourhood-enlargement.ec.europa.eu/system/files/2023-11/SWD_2023_698%20Moldova%20report.pdf
 
