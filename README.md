@@ -18,7 +18,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Trade Facilitation](#trade-facilitation)  
 - [Local Transport Plans](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
-- [International cooperation projects and strategies](#International-cooperation-projects)
+- [International cooperation projects and strategies](#International-cooperation) 
 - [Data](#data) 
 
   
@@ -81,7 +81,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - 2021: Sustainable Infrastructure for Low-carbon Development in the EU Eastern Partnership: Moldova’s sustainable infrastructure investments, OECD: https://www.oecd-ilibrary.org/sites/986fb125-en/index.html?itemId=/content/component/986fb125-en#chapter-d1e16533 
 - 2022: AD HOC Review Moldova, IMF: https://www.imf.org/en/Publications/CR/Issues/2022/05/13/Republic-of-Moldova-Ad-Hoc-Review-Under-the-Extended-Credit-Facility-Request-for-517858
 
-### International cooperation projects and strategies <a name="International-cooperation-projects"></a>
+### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
 - Pathways towards Decarbonisation of the Transport Sector in Moldova: https://changing-transport.org/project/pathways-towards-decarbonization-of-the-transport-sector-in-moldova/
 - Moldova Institutional and Structural Reforms Activity (MISRA): https://www.usaid.gov/moldova/economic-growth
