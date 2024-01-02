@@ -51,7 +51,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     - NAP tbd
 
 - NECAP tbd
-- Energy policy
+- Energy policy 
+    -  Energy Strategy of the Republic of Moldova until 2030: http://lex.justice.md/md/346670/
     - Moldova 2022 <b> Energy Policy Review </b>, IEA: https://www.iea.org/reports/moldova-2022  
 
 
