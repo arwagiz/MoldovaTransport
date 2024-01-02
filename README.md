@@ -13,8 +13,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - [National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
-- [Climate, energy policy](#Climate-energy-policy)
-- [EU accession](#EU-accession)
+- [Climate and energy policies](#climate-energy-policies) 
+- [EU accession](#EU-accession) 
 - [Trade Facilitation](#trade-facilitation)  
 - [Local transport plans](#Local-Transport-Plans)
 - [Studies and research papers](#Studies-and-research-papers)
@@ -40,7 +40,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Inland waterways, ports:
 - Aviation:
 
-### Climate, energy policy <a name="Climate-energy-policy"></a>
+### Climate and energy policies <a name="climate-energy-policies"></a> 
+
 - Mitigation:
     - <b> Updated Nationally Determined Contribution of the Republic of Moldova </b> 2020: https://unfccc.int/sites/default/files/NDC/2022-06/MD_Updated_NDC_final_version_EN.pdf
     - <b> National Inventory Report </b> : Greenhouse Gas Sources and Sinks in the Republic of Moldova, 1990-2020 : Submission to the United Nations Framework Convention on Climate Change, UNEP : https://unfccc.int/sites/default/files/resource/Moldova_NIR_1990-2020_EN_web.pdf
@@ -53,7 +54,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Energy policy
     - Moldova 2022 <b> Energy Policy Review </b>, IEA: https://www.iea.org/reports/moldova-2022  
 
-### EU accession <a name="EU-accession"></a>
+### EU accession <a name="EU-accession"></a> 
 
 - Communication on EU Enlargement policy - Republic of Moldova 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 :  https://neighbourhood-enlargement.ec.europa.eu/system/files/2023-11/SWD_2023_698%20Moldova%20report.pdf
 
