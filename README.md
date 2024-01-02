@@ -15,7 +15,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Other national plans and documents](#Other-national-plans-and-documents)
 - [Climate, energy policy](#Climate-energy-policy)
 - [EU accession](#EU-accession)
-- [Trade Facilitation](#trade-facilitation] 
+- [Trade Facilitation](#trade-facilitation)  
 - [Local transport plans](#Local-Transport-Plans)
 - [Studies and research papers](#Studies-and-research-papers)
 - [International cooperation projects and strategies](#International-cooperation-projects)
