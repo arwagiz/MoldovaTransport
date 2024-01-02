@@ -12,7 +12,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Table of Contents
 
 - [National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)
-- [Other national plans and documents](#Other-national-plans-and-documents)
+- [Other national and sectoral documents](#other-national-sectoral-documents) 
 - [Climate, energy policy](#Climate-energy-policy)
 - [EU accession](#EU-accession)
 - [Trade Facilitation](#trade-facilitation)  
@@ -30,7 +30,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - General
   - National Development Strategy: https://gov.md/sites/default/files/document/attachments/intr40_12_0.pdf
 
-### Other national and sectoral plans and documents <a name="Other-national-plans-and-documents"></a>
+### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
 - Railways:
     - CFM Railway – Development Program 2018 - 2031: http://www.railway.md/content/ro/modernizare.pdf
