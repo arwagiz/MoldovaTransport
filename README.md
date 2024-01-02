@@ -16,7 +16,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Climate and energy policies](#climate-energy-policies) 
 - [EU accession](#EU-accession) 
 - [Trade Facilitation](#trade-facilitation)  
-- [Local transport plans](#Local-Transport-Plans)
+- [Local Transport Plans](#local-transport-plans) 
 - [Studies and research papers](#Studies-and-research-papers)
 - [International cooperation projects and strategies](#International-cooperation-projects)
 - [Data](#data) 
@@ -63,7 +63,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - 
 
-### Local Transport Plans <a name="Local-Transport-Plans"></a>
+### Local Transport Plans <a name="local-transport-plans"></a>  
 
 - <b> SUMP Cahul </b> Planul de Mobilitate Urbană Durabilă pentru Regiunea Transfrontalieră CAHUL-OANCEA: https://primariacahul.md/images/docs/alte/10._PMUD.pdf 
 - <b> SUMP Edinet </b> PLANUL DE MOBILITATE URBANĂ AL MUNICIPIULUI EDINEȚ https://primariaedinet.md/wp-content/uploads/2022/05/PMUD-Edinet_draft-final-PMUD_actualizare-predare-5.05.2022.pdf
