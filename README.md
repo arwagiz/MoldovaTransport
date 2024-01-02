@@ -86,7 +86,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Strong Businesses and Communities for Moldova: https://www.giz.de/de/downloads/giz2022-en-strong-businesses-and-communities.pdf
 - EBRD Country Strategy Moldova 2023 - 2028: https://www.ebrd.com/news/2023/ebrd-approves-new-moldova-country-strategy.html
 
-### Data <a name="Data"></a>
+### Data <a name="data"></a>
 
 - NATIONAL BUREAU OF STATISTICS OF THE REPUBLIC OF MOLDOVA: https://statistica.gov.md/
 - Pocket book: Moldova in figures, edition 2023: https://statistica.gov.md/en/the-statistical-pocket-book-moldova-in-figures-edition-2023-posted-on-12_60465.html
