@@ -11,7 +11,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Table of Contents
 
-- [National Visionm Strategy, Masterplan](#National-Vision-Strategy-Masterplan)
+- [National Vision, Strategy, Masterplan](#National-Vision-Strategy-Masterplan)
 - [Other national plans and documents](#Other-national-plans-and-documents)
 - [Climate, energy policy](#Climate-energy-policy)
 - [EU accession](#EU-accession)
