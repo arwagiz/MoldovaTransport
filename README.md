@@ -18,7 +18,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [EU accession](#EU-accession)
 - [Studies and research papers](#Studies-and-research-papers)
 - [International cooperation projects and strategies](#International-cooperation-projects)
-- [Data](#data)
+- [Data](#data) 
 
   
 ### National Vision, Strategy, Masterplan <a name="National-Vision-Strategy-Masterplan"></a>
