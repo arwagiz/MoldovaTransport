@@ -13,9 +13,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - [National level: Vision / Strategy/ Masterplan](#National-Vision-Strategy-Masterplan)
 - [Other national plans and documents](#Other-national-plans-and-documents)
-- [Local transport plans](#Local-Transport-Plans)
 - [Climate, energy policy](#Climate-energy-policy)
 - [EU accession](#EU-accession)
+- [Trade Facilitation](#trade-facilitation] 
+- [Local transport plans](#Local-Transport-Plans)
 - [Studies and research papers](#Studies-and-research-papers)
 - [International cooperation projects and strategies](#International-cooperation-projects)
 - [Data](#data) 
@@ -56,7 +57,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Communication on EU Enlargement policy - Republic of Moldova 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 :  https://neighbourhood-enlargement.ec.europa.eu/system/files/2023-11/SWD_2023_698%20Moldova%20report.pdf
 
-### Trade Faciltiation
+### Trade Facilitation <a name="trade-facilitation"></a> 
+
 
 - 
 
