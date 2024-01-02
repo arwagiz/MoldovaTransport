@@ -39,14 +39,6 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Inland waterways, ports:
 - Aviation:
 
-### Local Transport Plans <a name="Local-Transport-Plans"></a>
-
-- <b> SUMP Cahul </b> Planul de Mobilitate Urbană Durabilă pentru Regiunea Transfrontalieră CAHUL-OANCEA: https://primariacahul.md/images/docs/alte/10._PMUD.pdf 
-- <b> SUMP Edinet </b> PLANUL DE MOBILITATE URBANĂ AL MUNICIPIULUI EDINEȚ https://primariaedinet.md/wp-content/uploads/2022/05/PMUD-Edinet_draft-final-PMUD_actualizare-predare-5.05.2022.pdf
-- <b> GCAP Chisinau </b> Green City Action Plan for Balti for Chisinau: https://ebrdgreencities.com/assets/downloads/Chisinau-GCAP-Rom.pdf
-- <b> GCAP Balti </b>  Green City Action Plan for Balti: https://www.ebrdgreencities.com/assets/Uploads/PDF/GCAP-Balti-Final-Report-19-November-2021.pdf
-- <b> Sustainable Energy and Climate Action Plan (SECAP) Balti municipality 2016-2030 </b> https://mycovenant.eumayors.eu/docs/seap/19514_1459614153.pdf
-
 ### Climate, energy policy <a name="Climate-energy-policy"></a>
 - Mitigation:
     - <b> Updated Nationally Determined Contribution of the Republic of Moldova </b> 2020: https://unfccc.int/sites/default/files/NDC/2022-06/MD_Updated_NDC_final_version_EN.pdf
@@ -63,6 +55,18 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### EU accession <a name="EU-accession"></a>
 
 - Communication on EU Enlargement policy - Republic of Moldova 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 :  https://neighbourhood-enlargement.ec.europa.eu/system/files/2023-11/SWD_2023_698%20Moldova%20report.pdf
+
+### Trade Faciltiation
+
+- 
+
+### Local Transport Plans <a name="Local-Transport-Plans"></a>
+
+- <b> SUMP Cahul </b> Planul de Mobilitate Urbană Durabilă pentru Regiunea Transfrontalieră CAHUL-OANCEA: https://primariacahul.md/images/docs/alte/10._PMUD.pdf 
+- <b> SUMP Edinet </b> PLANUL DE MOBILITATE URBANĂ AL MUNICIPIULUI EDINEȚ https://primariaedinet.md/wp-content/uploads/2022/05/PMUD-Edinet_draft-final-PMUD_actualizare-predare-5.05.2022.pdf
+- <b> GCAP Chisinau </b> Green City Action Plan for Balti for Chisinau: https://ebrdgreencities.com/assets/downloads/Chisinau-GCAP-Rom.pdf
+- <b> GCAP Balti </b>  Green City Action Plan for Balti: https://www.ebrdgreencities.com/assets/Uploads/PDF/GCAP-Balti-Final-Report-19-November-2021.pdf
+- <b> Sustainable Energy and Climate Action Plan (SECAP) Balti municipality 2016-2030 </b> https://mycovenant.eumayors.eu/docs/seap/19514_1459614153.pdf
 
 ### Studies and research papers <a name="Studies-and-research-papers"></a>
 
