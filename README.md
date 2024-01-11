@@ -69,7 +69,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - <b> SUMP Cahul </b> Planul de Mobilitate Urbană Durabilă pentru Regiunea Transfrontalieră CAHUL-OANCEA: https://primariacahul.md/images/docs/alte/10._PMUD.pdf 
 - <b> SUMP Edinet </b> PLANUL DE MOBILITATE URBANĂ AL MUNICIPIULUI EDINEȚ https://primariaedinet.md/wp-content/uploads/2022/05/PMUD-Edinet_draft-final-PMUD_actualizare-predare-5.05.2022.pdf
-- <b> GCAP Chisinau </b> Green City Action Plan for Balti for Chisinau: https://ebrdgreencities.com/assets/downloads/Chisinau-GCAP-Rom.pdf
+- <b> GCAP Chisinau </b> Green City Action Plan for Chisinau: https://ebrdgreencities.com/assets/downloads/Chisinau-GCAP-Rom.pdf
 - <b> GCAP Balti </b>  Green City Action Plan for Balti: https://www.ebrdgreencities.com/assets/Uploads/PDF/GCAP-Balti-Final-Report-19-November-2021.pdf
 - <b> Sustainable Energy and Climate Action Plan (SECAP) Balti municipality 2016-2030 </b> https://mycovenant.eumayors.eu/docs/seap/19514_1459614153.pdf
 
