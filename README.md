@@ -50,7 +50,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Adaptation
     - NAP tbd
 
-- NECAP tbd
+- Draft National Energy and Climate Plan of Moldova: https://www.energy-community.org/dam/jcr:f36a71ea-74bb-43c5-a67e-ccf1085e224f/NECP%20Moldova%20draft.pdf
 - Energy policy 
     -  Energy Strategy of the Republic of Moldova until 2030: http://lex.justice.md/md/346670/
     - Moldova 2022 <b> Energy Policy Review </b>, IEA: https://www.iea.org/reports/moldova-2022  
