@@ -58,10 +58,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### EU accession <a name="eu-accession"></a> 
 
-- Communication on EU Enlargement policy - Republic of Moldova 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 :  https://neighbourhood-enlargement.ec.europa.eu/system/files/2023-11/SWD_2023_698%20Moldova%20report.pdf
+- </b> Communication on EU Enlargement policy - Republic of Moldova 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023 :  https://neighbourhood-enlargement.ec.europa.eu/system/files/2023-11/SWD_2023_698%20Moldova%20report.pdf
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
-
 
 - 
 
@@ -85,11 +84,11 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
-- Pathways towards Decarbonisation of the Transport Sector in Moldova: https://changing-transport.org/project/pathways-towards-decarbonization-of-the-transport-sector-in-moldova/
-- Moldova Institutional and Structural Reforms Activity (MISRA): https://www.usaid.gov/moldova/economic-growth
-- MOVE IT Like. Lublin – a Chisinau public transport sustainable development initiative: https://www.chisinau.md/ro/upload/271759/attached_files/63454b2514a23.pdf
-- Strong Businesses and Communities for Moldova: https://www.giz.de/de/downloads/giz2022-en-strong-businesses-and-communities.pdf
-- EBRD Country Strategy Moldova 2023 - 2028: https://www.ebrd.com/news/2023/ebrd-approves-new-moldova-country-strategy.html
+- <b> Pathways towards Decarbonisation of the Transport Sector in Moldova </b> : https://changing-transport.org/project/pathways-towards-decarbonization-of-the-transport-sector-in-moldova/
+- <b> Moldova Institutional and Structural Reforms Activity (MISRA) </b> : https://www.usaid.gov/moldova/economic-growth
+- <b> MOVE IT Like. Lublin – a Chisinau public transport sustainable development initiative </b> : https://www.chisinau.md/ro/upload/271759/attached_files/63454b2514a23.pdf
+- <b> Strong Businesses and Communities for Moldova </b> : https://www.giz.de/de/downloads/giz2022-en-strong-businesses-and-communities.pdf
+- <b>  EBRD Country Strategy Moldova 2023 - 2028 </b> : https://www.ebrd.com/news/2023/ebrd-approves-new-moldova-country-strategy.html
 
 ### Data <a name="data"></a>
 
@@ -107,4 +106,4 @@ Contributors:
 
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of Dcember 2023)
+- (as of January 2024)
