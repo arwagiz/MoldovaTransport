@@ -75,13 +75,13 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Studies and research papers <a name="studies-research"></a> 
 
-- 2007: Moldova- Present situation analysis of the transport sector, World Bank: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/540881468054253412/moldova-present-situation-analysis-of-the-transport-sector
-- 2012: Analysis of public transport in Chisinau, Technical University of Moldova: https://ibn.idsi.md/sites/default/files/imag_file/383-387_1.pdf
-- 2014: How much Time Do Moldovans Spend Travelling, UNDP: https://www.undp.org/moldova/publications/analytical-brief-10-how-much-time-do-moldovans-spend-travelling
-- 2018: Moldova Trade Corridor Assessment, MISRA/USAID: https://pdf.usaid.gov/pdf_docs/PA00T8JD.pdf
-- 2019: Promoting Clean Urban Public Transportation and Green Investment in Moldova, OECD: https://www.oecd.org/environment/promoting-clean-urban-public-transportation-and-green-investment-in-moldova-31925aae-en.htm
-- 2021: Sustainable Infrastructure for Low-carbon Development in the EU Eastern Partnership: Moldova’s sustainable infrastructure investments, OECD: https://www.oecd-ilibrary.org/sites/986fb125-en/index.html?itemId=/content/component/986fb125-en#chapter-d1e16533 
-- 2022: AD HOC Review Moldova, IMF: https://www.imf.org/en/Publications/CR/Issues/2022/05/13/Republic-of-Moldova-Ad-Hoc-Review-Under-the-Extended-Credit-Facility-Request-for-517858
+- <b> Moldova- Present situation analysis of the transport sector </b> , World Bank, 2007: https://documents.worldbank.org/en/publication/documents-reports/documentdetail/540881468054253412/moldova-present-situation-analysis-of-the-transport-sector
+- <b> Analysis of public transport in Chisinau </b> , Technical University of Moldova, 2012: https://ibn.idsi.md/sites/default/files/imag_file/383-387_1.pdf
+- <b> How much Time Do Moldovans Spend Travelling </b> , UNDP, 2014: https://www.undp.org/moldova/publications/analytical-brief-10-how-much-time-do-moldovans-spend-travelling
+- <b> Moldova Trade Corridor Assessment </b> , MISRA/USAID, 2018: https://pdf.usaid.gov/pdf_docs/PA00T8JD.pdf
+- <b> Promoting Clean Urban Public Transportation and Green Investment in Moldova </b> , OECD, 2019: https://www.oecd.org/environment/promoting-clean-urban-public-transportation-and-green-investment-in-moldova-31925aae-en.htm
+- <b> Sustainable Infrastructure for Low-carbon Development in the EU Eastern Partnership: Moldova’s sustainable infrastructure investments </b>, OECD, 2021: https://www.oecd-ilibrary.org/sites/986fb125-en/index.html?itemId=/content/component/986fb125-en#chapter-d1e16533 
+- <b> AD HOC Review Moldova </b> , IMF, 2022: https://www.imf.org/en/Publications/CR/Issues/2022/05/13/Republic-of-Moldova-Ad-Hoc-Review-Under-the-Extended-Credit-Facility-Request-for-517858
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
