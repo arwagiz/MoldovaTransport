@@ -43,10 +43,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
-    - <b> Updated Nationally Determined Contribution of the Republic of Moldova </b> 2020: https://unfccc.int/sites/default/files/NDC/2022-06/MD_Updated_NDC_final_version_EN.pdf
-    - <b> National Inventory Report </b> : Greenhouse Gas Sources and Sinks in the Republic of Moldova, 1990-2020 : Submission to the United Nations Framework Convention on Climate Change, UNEP : https://unfccc.int/sites/default/files/resource/Moldova_NIR_1990-2020_EN_web.pdf
-    - <b> National Communication (NC). NC 5 </b> : https://unfccc.int/documents/627100
-    - Strategy for low-emission development of the Republic of Moldova until 2030 and the Action Plan for its implementationhttps://www.legis.md/cautare/getResults?doc_id=98493&lang=ro
+    - <b> Updated Nationally Determined Contribution of the Republic of Moldova </b>, 2020: https://unfccc.int/sites/default/files/NDC/2022-06/MD_Updated_NDC_final_version_EN.pdf
+    - <b> National Inventory Report </b> : Greenhouse Gas Sources and Sinks in the Republic of Moldova, 1990-2020: Submission to the United Nations Framework Convention on Climate Change, UNEP, 2022: https://unfccc.int/sites/default/files/resource/Moldova_NIR_1990-2020_EN_web.pdf
+    - <b> National Communication (NC). NC 5 </b>, 2023: https://unfccc.int/documents/627100
+    - <b> Strategy for low-emission development of the Republic of Moldova until 2030 and the Action Plan for its implementation </b>, 2016: https://www.legis.md/cautare/getResults?doc_id=98493&lang=ro
 - Adaptation
     - NAP tbd
 
