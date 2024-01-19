@@ -25,18 +25,18 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 - Transport
-    - Transport and Logistics Strategy 2013 - 2022: http://lex.justice.md/viewdoc.php?action=view&view=doc&id=350111&lang=1
-    - Mobility Strategy 2030 (upcoming)
+    - <b> Transport and Logistics Strategy 2013 - 2022 </b>: http://lex.justice.md/viewdoc.php?action=view&view=doc&id=350111&lang=1
+    - <b> Mobility Strategy 2030 </b> (upcoming)
 - General
-  - National Development Strategy: https://gov.md/sites/default/files/document/attachments/intr40_12_0.pdf
+  - <b> National Development Strategy </b>: https://gov.md/sites/default/files/document/attachments/intr40_12_0.pdf
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
 - Railways:
-    - CFM Railway – Development Program 2018 - 2031: http://www.railway.md/content/ro/modernizare.pdf
-    - Integration of the Ukrainian and Moldavian Railway System into the EU transport system, EIB, DG MOVE: https://transport.ec.europa.eu/system/files/2023-07/Integration_of_the_UAMD_railway_system_into_the_EU_transport_system.pdf
+    - <b> CFM Railway – Development Program 2018 - 2031 </b>: http://www.railway.md/content/ro/modernizare.pdf
+    - <b> Integration of the Ukrainian and Moldavian Railway System into the EU transport system </b>, EIB, DG MOVE: https://transport.ec.europa.eu/system/files/2023-07/Integration_of_the_UAMD_railway_system_into_the_EU_transport_system.pdf
 - Roads:
-    - Programs on the distribution of road fund funds for 2023: https://www.asd.md/programe/
+    - <b> Programs on the distribution of road fund funds for 2023 </b>: https://www.asd.md/programe/
 - Inland waterways, ports:
 - Aviation:
 
@@ -50,9 +50,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - Adaptation
     - NAP tbd
 
-- Draft National Energy and Climate Plan of Moldova: https://www.energy-community.org/dam/jcr:f36a71ea-74bb-43c5-a67e-ccf1085e224f/NECP%20Moldova%20draft.pdf
+- <b> Draft National Energy and Climate Plan of Moldova </b>: https://www.energy-community.org/dam/jcr:f36a71ea-74bb-43c5-a67e-ccf1085e224f/NECP%20Moldova%20draft.pdf
 - Energy policy 
-    -  Energy Strategy of the Republic of Moldova until 2030: http://lex.justice.md/md/346670/
+    - <b> Energy Strategy of the Republic of Moldova until 2030 </b>: http://lex.justice.md/md/346670/
     - Moldova 2022 <b> Energy Policy Review </b>, IEA: https://www.iea.org/reports/moldova-2022  
 
 
