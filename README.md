@@ -16,6 +16,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Climate and energy policies](#climate-energy-policies) 
 - [EU accession](#eu-accession)
 - [Trade Facilitation](#trade-facilitation)  
+- [Digitalisation](#digitalisation)
+- [Gender and Equality](#gender)
 - [Local Transport Plans](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
@@ -64,6 +66,14 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
 - 
+
+### Digitalisation <a name="digitalisation"></a>
+
+- Digital Transformation Strategy of the Republic of Moldova for 2023-2030, RMO, 2023: https://mded.gov.md/transparenta/64373-2/
+
+### Gender and Equality <a name="gender"></a>
+
+-
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
