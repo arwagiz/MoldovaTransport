@@ -69,7 +69,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Digitalisation <a name="digitalisation"></a>
 
-- Digital Transformation Strategy of the Republic of Moldova for 2023-2030, RMO, 2023: https://mded.gov.md/transparenta/64373-2/
+- <b> Digital Transformation Strategy </b> of the Republic of Moldova for 2023-2030, RMO, 2023: https://mded.gov.md/transparenta/64373-2/
 
 ### Gender and Equality <a name="gender"></a>
 
