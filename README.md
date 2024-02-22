@@ -106,6 +106,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - NATIONAL BUREAU OF STATISTICS OF THE REPUBLIC OF MOLDOVA: https://statistica.gov.md/
 - Pocket book: Moldova in figures, edition 2023: https://statistica.gov.md/en/the-statistical-pocket-book-moldova-in-figures-edition-2023-posted-on-12_60465.html
+- SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
+- SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/
 
 
 Disclaimer: Findings, interpretations and conclusions expressed in this chart are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
